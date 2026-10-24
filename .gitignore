@@ -24,7 +24,7 @@ dist-ssr
 *.sw?
 
 # Local SQLite Database & uploads
-data/
+/data/
 *.db
 *.sqlite
 *.sqlite3
