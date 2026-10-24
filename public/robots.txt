@@ -1,0 +1,9 @@
+# QuoteWork Pro - Robots Configuration
+# https://quoteworkpro.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://quoteworkpro.com/sitemap.xml
